@@ -23,3 +23,4 @@ This project is a localized ETL (Extract, Transform, Load) pipeline that automat
 * `analyze_inventory.py`: SQL query execution for low-stock alerts.
 * `mock_amazon_sale.py`: Simulates a webhook/sale event altering the database.
 * `Ecom_Data_Pipeline.pbix`: The Power BI dashboard file containing the KPI visuals.
+* `requirements.txt`: Python environment dependencies.
